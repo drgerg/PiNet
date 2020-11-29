@@ -6,9 +6,9 @@ There are a bunch of Home Automation options out there, but none of them made me
 
 #### One Simple Wish
 
-It started with my wish to know whether my garage door was open or not.  In 2015 I wrote my first Python program, and ohd was born.
+It started with my wish to know whether my garage door was open or not.  In 2015 I wrote my first Python program, and [ohd](https://github.com/casspop/ohd) was born.
 
-Then we got a in-ground pool in the backyard.  The commercial controller was abominable, so I picked up another Raspberry Pi, a relay board, and wrote my second Python application, poolApp.py.
+Then we got a in-ground pool in the backyard.  The commercial controller was abominable, so I picked up another Raspberry Pi, a relay board, and wrote my second Python application, [poolApp.py](https://github.com/casspop/PoolControls).
 
 When I dumped the second Accurite weather station into the trash in only two years, I started my quest for a Reliable, Robust, Repairable Raspberry Pi-based Weather Station.
 
