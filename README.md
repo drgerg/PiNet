@@ -1,5 +1,11 @@
 ## PiNet: The Evolution of a Simple Wish
 
+Why describe my home control network here?  Well, it's complicated.  Bottom line, if I did it, you can do it.  And you might want to.  So here's how it started, and here's what I did.
+
+There are a bunch of Home Automation options out there, but none of them made me feel good.  Besides that, I really didn't set out to do a whole centralized control system, it just sorta morphed from a simple wish.
+
+#### One Simple Wish
+
 It started with my wish to know whether my garage door was open or not.  In 2015 I wrote my first Python program, and ohd was born.
 
 Then we got a in-ground pool in the backyard.  The commercial controller was abominable, so I picked up another Raspberry Pi, a relay board, and wrote my second Python application, poolApp.py.
