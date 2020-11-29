@@ -4,7 +4,7 @@ Why describe my home control network here?  Well, it's complicated.  Bottom line
 
 There are a bunch of Home Automation options out there, but none of them made me feel good.  Besides that, I really didn't set out to do a whole centralized control system, it just sorta morphed from a simple wish.
 
-#### One Simple Wish
+#### One Simple Wish - the garage door
 
 It started with my wish to know whether my garage door was open or not.  In 2015 I wrote my first Python program, and [ohd](https://github.com/casspop/ohd) was born.
 
