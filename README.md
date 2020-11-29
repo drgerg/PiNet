@@ -14,10 +14,10 @@ When I dumped the second Accurite weather station into the trash in only two yea
 
 I had a little i3 Lenovo computer that really wasn't doing anything, so I thought it made sense to put it to work holding the mySQL database for the weather station.  
 
-Not much later, I realized I needed a single interface for all this stuff, and allApp.py was born.  It runs on Brilliant, the little i3 Lenovo.
+Not much later, I realized I needed a single interface for all this stuff, and [allApp.py](https://github.com/casspop/Pi-based-weather-station/tree/master/Code/all) was born.  It runs on Brilliant, the little i3 Lenovo.  (allApp is currently housed in the WeatherPi repo.)
 
 Zoneminder runs on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  Our interface to that system, however, is part of the allApp.py running on that sad little i3 Lenovo.
 
 That pretty well describes in a concise manner the Pi-Net as it exists today.  More to come.  
 
-Check out the functional diagram in the Docs folder.
+Check out the [functional diagram](https://github.com/casspop/PiNet/blob/main/Docs/PiNet%20Block%20Diagram.pdf) in the Docs folder.
