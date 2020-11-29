@@ -24,7 +24,7 @@ Not much later, I realized I needed a single interface for all this stuff, and [
 
 #### and then Eyes (cameras)
 
-Zoneminder runs headless on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  Our interface to that system is part of the allApp.py running on that cutesy little i3 Lenovo.
+Zoneminder runs headless on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  I have four 4K TCP/IP cameras and the Raspberry Pi Camera in WeatherPi feeding into it.  Our interface to that system is part of the allApp.py running on that cutesy little i3 Lenovo.
 
 That pretty well describes in a concise manner the Pi-Net as it exists today.  More to come.  
 
