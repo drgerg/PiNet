@@ -16,7 +16,7 @@ Then we got a in-ground pool in the backyard.  The commercial controller was abo
 
 When I dumped the second Accurite weather station into the trash in only two years, I started my quest for a Reliable, Robust, Repairable Raspberry Pi-based [Weather Station](https://github.com/casspop/Pi-based-weather-station).
 
-I had a little i3 Lenovo computer that really wasn't doing anything, so I thought it made sense to put it to work holding the mySQL database for the weather station.  
+I had a little i3 Lenovo computer that really wasn't doing anything, so I thought it made sense to put it to work holding the mySQL database for the weather station.  So I stuck a 4TB hard drive in it that I pulled out of a WD MyBook external and put it to work.
 
 #### then the web-based UI (VPN or local-only, not Internet)
 
