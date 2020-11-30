@@ -32,6 +32,6 @@ I built myself a pretty nice shop in the back yard.  It has A/C for the summer, 
 
 That pretty well describes in a concise manner the PiNet as it exists today.  More to come.  
 
-Check out the [functional diagram](https://github.com/casspop/PiNet/blob/main/Docs/PiNet%20Block%20Diagram.pdf) in the Docs folder.
+Check out the [functional diagram](https://github.com/casspop/PiNet/blob/main/Docs/PiNet%20Block%20Diagram.pdf) AND [The Screens of PiNet](https://github.com/casspop/PiNet/blob/main/Docs/The%20Screens%20of%20PiNet.pdf) in the Docs folder.
 
 (c) 2020 - Gregory A Sanders
