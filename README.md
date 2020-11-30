@@ -14,13 +14,13 @@ Then we got a in-ground pool in the backyard.  The commercial controller was abo
 
 ### then the Weather Station
 
-When I dumped the second Accurite weather station into the trash in only two years, I started my quest for a Reliable, Robust, Repairable Raspberry Pi-based [Weather Station](https://github.com/casspop/Pi-based-weather-station).
+When I dumped the second Accurite weather station into the trash in only two years, I started my quest for a Reliable, Robust, Repairable Raspberry Pi-based [Weather Station](https://github.com/casspop/Pi-based-weather-station). The station lives outside on a pole, but I wanted the database in the house.
 
 I had a little i3 Lenovo computer that really wasn't doing anything, so I thought it made sense to put it to work holding the mySQL database for the weather station.  So I stuck a 4TB hard drive in it that I pulled out of a WD MyBook external and put it to work.
 
 ### then the web-based UI (VPN or local-only, not Internet)
 
-Not much later, I realized I needed a single interface for all this stuff, and [allApp.py](https://github.com/casspop/Pi-based-weather-station/tree/master/Code/all) was born.  It runs on Brilliant, the little i3 Lenovo.  (allApp is currently housed in the WeatherPi repo.)
+Not much later I realized I needed a single interface for all this stuff, and [allApp.py](https://github.com/casspop/Pi-based-weather-station/tree/master/Code/all) was born.  It runs on Brilliant, the little i3 Lenovo.  (allApp is currently housed in the WeatherPi repo.)
 
 ### and then Eyes (cameras)
 
