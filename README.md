@@ -1,4 +1,4 @@
-## PiNet: The Evolution of a Simple Wish
+## PiNet: The Evolution of a Simple Wish. No Cloud. Yet Interactive.
 
 Why describe my home control network here?  Well, it's complicated.  Bottom line, if I did it, you can do it.  And you might want to.  So here's how it started, and here's what I did.
 
