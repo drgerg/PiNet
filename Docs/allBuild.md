@@ -43,9 +43,10 @@ Repeat for each database you want to export / backup.
 
 **Locally on Brilliant:**
 Prepare the new drive.
-   a. Disconnect the old drive from the computer.
-   b. Connect the new drive.
-   c. Install the OS (Remember the user name and the machine name need to be the same as they were before.)
+
+   1. Disconnect the old drive from the computer.
+   2. Connect the new drive.
+   3. Install the OS (Remember the user name and the machine name need to be the same as they were before.)
 
 Get ssh-server up and running on the new drive.
 
@@ -101,7 +102,9 @@ I did assign a password to the 'root' account. I tried to use the 'empty' method
 
 **Create a mySQL user for each node of PiNet for allSysReport.service (zAllSysChk.py)**
 
-**ssh-copy-id -i id_rsa -p {port} {user}@{machine}**
+**Copy the ssh key to the other nodes.**
+
+    ssh-copy-id -i id_rsa -p {port} {user}@{machine}
 
 This needs to be done from Brilliant (/home/{user}/.ssh) to every other PiNet machine <b> including Brilliant </b>.  I know, that doesn't exactly make sense, but it is true.
 
