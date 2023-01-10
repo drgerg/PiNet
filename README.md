@@ -1,4 +1,4 @@
-# PiNet: My Home Automation: The Evolution of a Simple Wish.
+# PiNet: My Home Automation Solution.
 
 ## No Cloud. No Data-sharing. Simple browser interface.
 
