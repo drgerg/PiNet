@@ -1,6 +1,6 @@
 # PiNet: My Home Automation Solution in 2023.
 
-## No Cloud. No Data-sharing. Simple browser interface.
+## No Cloud. No Data-sharing. Simple browser [interface](https://github.com/casspop/PiNet/blob/main/Docs/The%20Screens%20of%20PiNet.pdf).
 
 Why describe my home control network here?  Well, it's complicated.  Bottom line, if I did it, you can do it.  And you might want to.  So here's how it started, and here's what I did. (There is more at [drgerg.com](https://www.drgerg.com/pinet-one-simple-wish.html).)
 
