@@ -26,7 +26,7 @@ Not much later I realized I needed a single interface for all this stuff, and [a
 
 ### and then Eyes (cameras),
 
-Zoneminder runs headless on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  I have four 4K TCP/IP cameras and the Raspberry Pi Camera in WeatherPi feeding into it.  Our interface to that system is part of the allApp.py running on that cutesy little i3 Lenovo.
+Zoneminder was replaced in 2022 by [Agent DVR](https://www.ispyconnect.com/).  It runs headless on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  I have four 4K TCP/IP cameras and the Raspberry Pi Camera in WeatherPi feeding into it.  Our interface to that system is part of the allApp.py running on that cutesy little i3 Lenovo.
 
 ### and then the shop,
 
@@ -38,7 +38,7 @@ Discovering the joy of the 2004 LCD module caused the addition of [PlayerPi, Pid
 
 ### LilWeatherPi was added for redundancy.
 
-I added a second version of WeatherPi, but without wind and rainfall sensors.  It does have a camera and temp, humidity and pressure sensors.  It provides a 'second opinion', which is nice, as well as serving as an emergency backup should something go wrong with the original WeatherPi.
+I added a [second version](https://www.drgerg.com/introducing-lilweatherpi.html) of WeatherPi, but without wind and rainfall sensors.  It does have a camera and temp, humidity and pressure sensors.  It provides a 'second opinion', which is nice, as well as serving as an emergency backup should something go wrong with the original WeatherPi.
 
 That pretty well describes in a concise manner the PiNet as it exists today.  More to come.  
 
