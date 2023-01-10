@@ -34,7 +34,7 @@ I built myself a pretty nice shop in the back yard.  It has A/C for the summer, 
 
 ### and then the P-Pi's: PlayerPi, PoohPi, and PiddlePi.
 
-Discovering the joy of the 2004 LCD module caused the addition of PlayerPi, PiddlePi and PoohPi to the mix. To be technically accurate, PlayerPi already existed, but didn't have the LCD. At any rate, now there are three, all displaying whatever I want. Sockets-based fun!
+Discovering the joy of the 2004 LCD module caused the addition of [PlayerPi, PiddlePi and PoohPi](https://www.drgerg.com/openscad-files-for-lcdpi.html){:target="_blank"} to the mix. To be technically accurate, PlayerPi already existed, but didn't have the LCD. At any rate, now there are three, all displaying whatever I want. Sockets-based fun!
 
 That pretty well describes in a concise manner the PiNet as it exists today.  More to come.  
 
