@@ -26,7 +26,7 @@ Not much later I realized I needed a single interface for all this stuff, and [a
 
 ### and then Eyes (cameras),
 
-Zoneminder was replaced in 2022 by [Agent DVR](https://www.ispyconnect.com/).  It runs headless on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  I have four 4K TCP/IP cameras and the Raspberry Pi Camera in WeatherPi feeding into it.  Our interface to that system is part of the allApp.py running on that cutesy little i3 Lenovo.
+Zoneminder was replaced in 2022 by [Agent DVR](https://www.ispyconnect.com/).  It runs headless on Ubuntu on a fairly hairy gaming computer bought on sale from Best Buy (this one I didn't build myself).  I have four 4K TCP/IP cameras and the two Raspberry Pi Cameras in WeatherPi and LilWeatherPi feeding into it.  Our interface to that system is part of the allApp.py running on that cutesy little i3 Lenovo.
 
 ### and then the shop,
 
