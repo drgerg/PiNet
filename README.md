@@ -1,8 +1,8 @@
-# PiNet: My Home Automation Solution.
+# PiNet: My Home Automation Solution in 2023.
 
 ## No Cloud. No Data-sharing. Simple browser interface.
 
-Why describe my home control network here?  Well, it's complicated.  Bottom line, if I did it, you can do it.  And you might want to.  So here's how it started, and here's what I did.
+Why describe my home control network here?  Well, it's complicated.  Bottom line, if I did it, you can do it.  And you might want to.  So here's how it started, and here's what I did. (There is more at [drgerg.com](https://www.drgerg.com/pinet-one-simple-wish.html).)
 
 There are a bunch of Home Automation options out there, but none of them made me feel good.  Besides that, I really didn't set out to do a whole centralized control system, it just sorta morphed from a simple wish.
 
