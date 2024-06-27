@@ -1,10 +1,10 @@
-# PiNet: My Home Automation Solution in 2023.
+# PiNet: My Home Automation Solution in 2024.
 
 ## No Cloud. No Data-sharing. Simple browser [interface](https://github.com/casspop/PiNet/blob/main/Docs/The%20Screens%20of%20PiNet.pdf).
 
 Why describe my home control network here?  Well, it's complicated.  Bottom line, if I did it, you can do it.  And you might want to.  So here's how it started, and here's what I did. (There is more at [drgerg.com](https://www.drgerg.com/pinet-one-simple-wish.html).)
 
-There are a bunch of Home Automation options out there, but none of them made me feel good.  Besides that, I really didn't set out to do a whole centralized control system, it just sorta morphed from a simple wish.
+There are a bunch of Home Automation options out there, but none of them made me feel good.  Besides that, I really didn't set out to do a whole centralized control system, it just sorta morphed from a simple wish. (June 2024: a new project brings MQTT to PiNet. Not revolutionary, but accessory. I intend to document that.)
 
 ### One Simple Wish - the garage door,
 
