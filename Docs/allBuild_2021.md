@@ -175,7 +175,7 @@ Honestly, I don't know if this is necessary, but it was in the instructions, and
 
 **Set up msmtp to handle notifications**
 
-The instructions can be found in the doorPi (ohd) docs here on Github. https://github.com/casspop/ohd/blob/master/SetupRaspianForOhd.md
+The instructions can be found in the doorPi (ohd) docs here on Github. https://github.com/drgerg/ohd/blob/master/SetupRaspianForOhd.md
 I don't see any reason to copy and paste that over here.
 
 
