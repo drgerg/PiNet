@@ -125,7 +125,7 @@ Start installing some of the dependencies.
     sudo apt install python3-pip
     sudo apt-get install nginx
     sudo pip3 install gunicorn
-    pip3 install mysql-connector
+    pip3 install mysql-connector-python
     sudo apt-get install python3-numpy
     pip3 install noaa-sdk
     sudo pip3 install -U Flask
